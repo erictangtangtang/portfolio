@@ -4,10 +4,16 @@
     "occupation": "Software Development Engineer",
     "description": "Full Stack @ Web Service",
     "image": "profilepic.jpg",
-    "bio": "It must be a hardware problem",
+    "bio":  "Everything that has a begin has an end",
     "contactmessage": "Contact me if you have any questions",
     "email": "yhtang@ucdavis.edu",
     "phone": "530-304-5602",
+    "address": {
+      "street": "10207 Criswell Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78754"
+    },
     "website": "http://www.ericyihangtang.com",
     "resumedownload": "http://ericyihangtang.com",
     "social": [
