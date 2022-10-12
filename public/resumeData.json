@@ -4,16 +4,10 @@
     "occupation": "Software Development Engineer",
     "description": "Full Stack @ Web Service",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "It must be a hardware problem",
     "contactmessage": "Contact me if you have any questions",
     "email": "yhtang@ucdavis.edu",
     "phone": "530-304-5602",
-    "address": {
-      "street": "4600 W Guadalupe Street",
-      "city": "Austin",
-      "state": "TX",
-      "zip": "78751"
-    },
     "website": "http://www.ericyihangtang.com",
     "resumedownload": "http://ericyihangtang.com",
     "social": [
@@ -47,10 +41,16 @@
     ],
     "work": [
       {
+        "company": "Doordash",
+        "title": "Software Engineer",
+        "years": "October 2022 - Present",
+        "description": "Dasher Safety Platform"
+      },
+      {
         "company": "Amazon",
         "title": "Software Development Engineer",
-        "years": "August 2019 - Present",
-        "description": "Werb Service @ Amazon Business"
+        "years": "August 2019 - October 2022",
+        "description": "Web Service @ Amazon Business"
       },
       {
         "company": "Morgan Stanley",
